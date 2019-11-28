@@ -5,7 +5,7 @@ printf "
 printf "                                                         ++++++++ V1.0 Created by ...... ABHI +++++++++++"
 
 
-
+printf "    welcome to bypassfirewallpayload "
 printf "                                                                                                                                                                                                                                                                                                                      \e[189m\e[1;99m WELCOME TO IGNITETCH FUD TOOL \e[0m\n"
 sleep 10
 
